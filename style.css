@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(255, 196, 0);
+    font-size: 34px;
+    font-family: cursive;
+}
+h2 {
+    font-size: 40px;
+    color: rgb(255, 196, 0);
+}
+p {
+    margin-left: 40px;
+    font-size: 30px;
+    font-family: cursive;
+    color: (255, 196, 0);
+    
+}
+img {
+    width: 200px;
+    border: 2px solid #555;
+    border-radius: 10px;
+}
+body {
+    background-color: rgb(158, 66, 200);
+}
