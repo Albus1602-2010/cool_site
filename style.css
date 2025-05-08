@@ -5,7 +5,7 @@ h1 {
 }
 h2 {
     font-size: 40px;
-    color: rgb(255, 196, 0);
+    color: rgb(46, 45, 43);
 }
 p {
     margin-left: 40px;
@@ -15,10 +15,11 @@ p {
     
 }
 img {
-    width: 200px;
-    border: 2px solid #555;
-    border-radius: 10px;
+    margin-left: 100px;
+    width: 150px;
+    border: 0px solid #555;
+    border-radius: 20px;
 }
 body {
-    background-color: rgb(158, 66, 200);
+    background:linear-gradient(to right, #96f3f1, #3b27e8);
 }
